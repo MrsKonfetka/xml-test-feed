@@ -2,8 +2,8 @@
 <nabidka id="ABC001">
 <datum_vyrazeni>30.9.2026</datum_vyrazeni>
 <posledni_uprava>2026-09-03T10:55:00+02:00</posledni_uprava>
-<nazev>Junior PHP programátor</nazev>
-<vas_kod>TEST-HTML-001</vas_kod>
+<nazev>Junior PHP programátor Zkouškový</nazev>
+<vas_kod>TEST-HTML-002</vas_kod>
 <popis html="true"><ul> <li>Ze začátku budeš dostávat menší úkoly, kterými se naučíš nové věci a zároveň nám pomůžeš.</li> <li>Budeš se učit od odborníků, kteří ti kdykoliv rádi pomohou.</li> <li>Dostaneš k sobě zkušeného programátora, který tě povede.</li> <li>Obohatíš své znalosti a zkušenosti.</li> <li>Časem budeš pracovat na velkých projektech a na vývoji a správě firemního e-shopu a CMS.</li> </ul></popis>
 <pozadujeme>
         <![CDATA[ * Student SŠ nebo VŠ (není podmínkou)
