@@ -4,26 +4,89 @@
 <posledni_uprava>2026-09-03T10:55:00+02:00</posledni_uprava>
 <nazev>Junior PHP programátor</nazev>
 <vas_kod>TEST-HTML-001</vas_kod>
-<popis>
-    <![CDATA[ 
-    1. Pracovitost 
-    2. Fyzická a psychická zdatnost 
-    3. Samostatnost 
-    ]]>
-</popis>
-<pozadujeme>
-    <![CDATA[ 
-    a. Pracovitost 
-    b. Fyzická a psychická zdatnost 
-    c. Samostatnost 
-    ]]>
+<popis html="true"><![CDATA[ <body><h3>Programátor / vývojář webových aplikací</h3><p>Do našeho týmu hledáme <strong>šikovného programátora</strong>, který má chuť pracovat na zajímavých projektech a dále se rozvíjet.</p><h4>Co vás čeká</h4><p>Ze začátku budete dostávat <b>menší úkoly</b>, díky kterým se seznámíte s našimi systémy.<br>Postupně získáte větší odpovědnost a budete se podílet na vývoji nových funkcí.</p><h5>Náplň práce</h5><ul>Vývoj firemního e-shopu a CMS.<br>Spolupráce na nových projektech.<br>Řešení požadavků uživatelů.</ul><h5>Jak bude probíhat zapracování</h5><ol>Seznámení s našimi systémy.<br>První samostatné úkoly.<br>Zapojení do větších projektů.</ol><h6>Co od vás očekáváme</h6><p>Hledáme člověka, který je <i>samostatný</i>, <em>spolehlivý</em> a má <u>chuť učit se nové věci</u>.</p><p><span>Výhodou je zkušenost s vývojem webových aplikací a práce s databázemi.</span></p><p><strong>Nabízíme zajímavou práci, dobrý kolektiv a možnost profesního růstu.</strong></p></body> ]]></popis>
+<pozadujeme html="true">
+<![CDATA[
+<body>
+<h3>Programátor / vývojář webových aplikací</h3>
+
+<p>Do našeho týmu hledáme <strong>šikovného programátora</strong>, který má chuť pracovat na zajímavých projektech a dále se rozvíjet.</p>
+
+<h4>Co vás čeká</h4>
+
+<p>Ze začátku budete dostávat <b>menší úkoly</b>, díky kterým se seznámíte s našimi systémy.<br>
+Postupně získáte větší odpovědnost a budete se podílet na vývoji nových funkcí.</p>
+
+<h5>Náplň práce</h5>
+
+<ul>
+Vývoj firemního e-shopu a CMS.<br>
+Spolupráce na nových projektech.<br>
+Řešení požadavků uživatelů.
+</ul>
+
+<h5>Jak bude probíhat zapracování</h5>
+
+<ol>
+Seznámení s našimi systémy.<br>
+První samostatné úkoly.<br>
+Zapojení do větších projektů.
+</ol>
+
+<h6>Co od vás očekáváme</h6>
+
+<p>Hledáme člověka, který je <i>samostatný</i>, <em>spolehlivý</em> a má <u>chuť učit se nové věci</u>.</p>
+
+<p><span>Výhodou je zkušenost s vývojem webových aplikací a práce s databázemi.</span></p>
+
+<p><strong>Nabízíme zajímavou práci, dobrý kolektiv a možnost profesního růstu.</strong></p>
+</body>
+]]>
 </pozadujeme>
-<nabizime>
-    <![CDATA[ 
-    a) Pracovitost 
-    b) Fyzická a psychická zdatnost 
-    c) Samostatnost 
-    ]]>
+<nabizime html="true">
+<![CDATA[
+<body>
+<h3>Programátor / vývojář webových aplikací</h3>
+
+<p>Do našeho týmu hledáme <strong>šikovného programátora</strong>, který má chuť pracovat na zajímavých projektech a dále se rozvíjet.</p>
+
+
+
+
+
+
+
+    
+<h4>Co vás čeká</h4>
+
+<p>Ze začátku budete dostávat <b>menší úkoly</b>, díky kterým se seznámíte s našimi systémy.<br>
+Postupně získáte větší odpovědnost a budete se podílet na vývoji nových funkcí.</p>
+
+<h5>Náplň práce</h5>
+
+<ul>
+Vývoj firemního e-shopu a CMS.<br>
+Spolupráce na nových projektech.<br>
+Řešení požadavků uživatelů.
+</ul>
+
+<h5>Jak bude probíhat zapracování</h5>
+
+<ol>
+Seznámení s našimi systémy.<br>
+První samostatné úkoly.<br>
+Zapojení do větších projektů.
+</ol>
+
+<h6>Co od vás očekáváme</h6>
+
+<p>Hledáme člověka, který je <i>samostatný</i>, <em>spolehlivý</em> a má <u>chuť učit se nové věci</u>.</p>
+
+<p><span>Výhodou je zkušenost s vývojem webových aplikací a práce s databázemi.</span></p>
+
+<p><strong>Nabízíme zajímavou práci, dobrý kolektiv a možnost profesního růstu.</strong></p>
+</body>
+]]>
 </nabizime>
 <jine>
     <![CDATA[ 
