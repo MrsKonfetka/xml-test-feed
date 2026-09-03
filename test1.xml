@@ -5,25 +5,13 @@
 <nazev>Junior PHP programátor</nazev>
 <vas_kod>TEST-HTML-001</vas_kod>
 <popis html="true">
-<![CDATA[
-<ul>
-    <li>Ze začátku budeš dostávat menší úkoly, kterými se naučíš nové věci a zároveň nám pomůžeš.</li>
-    <li>Budeš se učit od odborníků, kteří ti kdykoliv rádi pomohou.</li>
-    <li>Dostaneš k sobě zkušeného programátora, který tě povede.</li>
-    <li>Obohatíš své znalosti a zkušenosti.</li>
-    <li>Časem budeš pracovat na velkých projektech a na vývoji a správě firemního e-shopu a CMS.</li>
-</ul>
-]]>
+    <![CDATA[ 1. Pracovitost 2. Fyzická a psychická zdatnost 3. Samostatnost ]]>
 </popis>
 <pozadujeme html="true">
-        <![CDATA[ 
-        <ul> <li>Ze začátku budeš dostávat menší úkoly, kterými se naučíš nové věci a zároveň nám pomůžeš.</li> <li>Budeš se učit od odborníků, kteří ti kdykoliv rádi pomohou.</li> <li>Dostaneš k sobě zkušeného programátora, který tě povede.</li> <li>Obohatíš své znalosti a zkušenosti.</li> <li>Časem budeš pracovat na velkých projektech a na vývoji a správě firemního e-shopu a CMS.</li> </ul>
-         ]]>
+    <![CDATA[ a. Pracovitost b. Fyzická a psychická zdatnost c. Samostatnost ]]>
 </pozadujeme>
 <nabizime html="true">
-        <![CDATA[ 
-        <h3>Co vás čeká</h3><p>Ze začátku budete dostávat <strong>menší úkoly</strong>, na kterých se postupně seznámíte s našimi projekty.</p><p>Budete spolupracovat se zkušenými kolegy, kteří vám rádi pomohou.<br>Postupně získáte větší samostatnost a odpovědnost.</p><h4>Náplň práce</h4><ul><li>Vývoj a správa firemního e-shopu a CMS.</li><li>Spolupráce na nových funkcích a projektech.</li><li>Řešení běžných požadavků uživatelů.</li></ul><h4>Jak bude probíhat zapracování</h4><ol><li>Seznámíte se s našimi systémy.</li><li>Dostanete k sobě zkušeného programátora.</li><li>Postupně budete pracovat na samostatných úkolech.</li></ol><p><em>Uvítáme chuť učit se nové věci a dále se rozvíjet.</em></p>
-        ]]>
+    <![CDATA[ a) Pracovitost b) Fyzická a psychická zdatnost c) Samostatnost ]]>
 </nabizime>
 <jine html="true">
 <![CDATA[ 
