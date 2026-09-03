@@ -5,16 +5,32 @@
 <nazev>Junior PHP programátor</nazev>
 <vas_kod>TEST-HTML-001</vas_kod>
 <popis>
-    <![CDATA[ 1. Pracovitost 2. Fyzická a psychická zdatnost 3. Samostatnost ]]>
+    <![CDATA[ 
+    1. Pracovitost 
+    2. Fyzická a psychická zdatnost 
+    3. Samostatnost 
+    ]]>
 </popis>
 <pozadujeme>
-    <![CDATA[ a. Pracovitost b. Fyzická a psychická zdatnost c. Samostatnost ]]>
+    <![CDATA[ 
+    a. Pracovitost 
+    b. Fyzická a psychická zdatnost 
+    c. Samostatnost 
+    ]]>
 </pozadujeme>
 <nabizime>
-    <![CDATA[ a) Pracovitost b) Fyzická a psychická zdatnost c) Samostatnost ]]>
+    <![CDATA[ 
+    a) Pracovitost 
+    b) Fyzická a psychická zdatnost 
+    c) Samostatnost 
+    ]]>
 </nabizime>
 <jine>
-    <![CDATA[ - Pracovitost - Fyzická a psychická zdatnost - Samostatnost ]]>
+    <![CDATA[ 
+    - Pracovitost 
+    - Fyzická a psychická zdatnost 
+    - Samostatnost 
+    ]]>
 </jine>
 <misto>
 <![CDATA[ Poski.com s.r.o., Slévárenská 404/13, Ostrava–Mariánské Hory, 709 00 ]]>
