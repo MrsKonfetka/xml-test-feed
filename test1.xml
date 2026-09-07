@@ -5,7 +5,7 @@
 <nazev>Junior PHP programátor</nazev>
 <vas_kod>TEST-HTML-001</vas_kod>
 <popis html="true">
-    <![CDATA[ 
+<![CDATA[ 
     <ul>
         <li>Ze začátku budeš dostávat menší úkoly, kterými se naučíš nové věci a zároveň nám pomůžeš.</li>
         <li>Budeš se učit od odborníků, kteří ti kdykoliv rádi pomohou.</li>
@@ -13,7 +13,7 @@
         <li>Obohatíš své znalosti a zkušenosti.</li>
         <li>Časem budeš pracovat na velkých projektech a na vývoji a správě firemního e-shopu a CMS.</li>
     </ul>
-    ]]>
+]]>
 </popis>
 <pozadujeme html="true">
 <![CDATA[
