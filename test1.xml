@@ -1,9 +1,9 @@
 <easyprace xmlns="http://www.easy-prace.cz/import/schema.xsd" version="2.0">
-<nabidka id="ABC001">
+<nabidka id="ABC002">
 <datum_vyrazeni>30.9.2027</datum_vyrazeni>
-<posledni_uprava>2026-09-03T10:55:00+02:00</posledni_uprava>
+<posledni_uprava>2026-11-18T10:25:00+01:00</posledni_uprava>
 <nazev>TEST Junior PHP programátor</nazev>
-<vas_kod>TEST-HTML-001</vas_kod>
+<vas_kod>TEST-HTML-002</vas_kod>
 <popis html="true">
 <![CDATA[ 
     <ul>
